@@ -1,9 +1,9 @@
 # Incognito_Blocker_App
-<<<<<<< HEAD
-This app will  disable incognito window on any android mobile
+The Incognito Blocker App is designed to help individuals regain control over their online habits by disabling access to incognito browsing on Android devices. This free and user-friendly application aims to support users on their journey to overcome adult content addiction by limiting access to private browsing features.
 
-# OUR MISSION IS TO BUILD AN APP THAT WILL JUST PREVENT USER FROM ACCESSING INCOGNITO PAGE FREE OF COST TO  HELP THEM IN THEIR ADULT CONTENT DE-ADDICTION JOURNEY .THERE ARE MANY APP AVAILABLE, BUT THEY ARE PAID AND CAN BE DELETED IN UNPAID VERSION.
 
-# START CONTRIBUTION FROM MASTER BRANCH.
-=======
->>>>>>> c8ca8d5f4081f22bbbfa037b5f2694ccf8b4b103
+Features
+>Disable Incognito Mode: Prevent access to incognito browsing across all major web browsers on Android.
+>User-Friendly Interface: Simple and intuitive design for easy navigation and configuration.
+>Privacy Focused: Your data and privacy are our top priority; we don’t collect any personal information.
+>Open Source: Contribute to the project and help us enhance its features and performance.
