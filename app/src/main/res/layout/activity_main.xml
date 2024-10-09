@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!-- Title or Header Text -->
+    <TextView
+        android:id="@+id/tvHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Incognito Mode Blocker"
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:paddingBottom="24dp" />
+
+    <!-- Current Status TextView -->
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Incognito Mode is Disabled"
+        android:textSize="18sp"
+        android:textColor="@android:color/holo_red_dark"
+        android:layout_gravity="center"
+        android:paddingBottom="16dp" />
+
+    <!-- Toggle Switch to Enable/Disable Incognito Mode -->
+    <Switch
+        android:id="@+id/switchIncognito"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Block Incognito Mode"
+        android:textSize="16sp"
+        android:checked="true"
+        android:layout_gravity="center"
+        android:paddingBottom="32dp" />
+
+    <!-- Optional Button to Access Settings or Info -->
+    <Button
+        android:id="@+id/btnSettings"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:layout_gravity="center"
+        android:backgroundTint="@android:color/holo_blue_light"
+        android:textColor="@android:color/white" />
+
+    <Button
+        android:id="@+id/enableAdminButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enable Device Admin"
+        android:layout_centerInParent="true" />
+
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Incognito_Disable_App</string>
+    <string name="incognito_disabled">Incognito Mode is Disabled</string>
+    <string name="incognito_enabled">Incognito Mode is Enabled</string>
+    <string name="device_admin_disabled">device_admin_disabled</string>
+    <string name="device_admin_enabled">device_admin_enabled</string>
+</resources>
